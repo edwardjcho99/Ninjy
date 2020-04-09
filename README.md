@@ -7,9 +7,12 @@ I made this game because I love to program! It was also good practice. A lot of 
 # Tools and Frameworks
 I used Javascript and the [Phaser library](https://phaser.io/phaser3), a framework for creating 2d games. In addition, I used the [mathjs library](https://mathjs.org/) to assist in calculating the trigonometry in the game.
 
-# Gameplay
-gif1
-gif2
+# Gameplay 
+(Note: The actual gameplay is not this laggy. The GIFs just have a low resolution and frame rate.)
+
+![ninjy-gameplay1](https://user-images.githubusercontent.com/30969561/78857178-8b4c7b00-79dd-11ea-95db-3d2866c757c3.gif)
+![ninjy-gameplay-archers](https://user-images.githubusercontent.com/30969561/78857203-956e7980-79dd-11ea-977a-5a99b8cdd3c2.gif)
+![ninjy-gameplay-maelstrom](https://user-images.githubusercontent.com/30969561/78857207-9acbc400-79dd-11ea-8d75-004206f77b22.gif)
 
 # Difficulties
 Because this was my first time programming in Javascript, I had to get used to the syntax. Although learning a new language initially slowed me down, I'm glad I did because I have developed somewhat of an understanding of how Javascript works. 
